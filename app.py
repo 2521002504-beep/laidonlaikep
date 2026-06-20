@@ -1,6 +1,6 @@
 import streamlit as st
 # Hiển thị logo
-st.image("
+st.image("IMG_6526.jpeg")
 # Tiêu đề ứng dụng
 st.title("💰 Ứng dụng tính tiền gửi tiết kiệm_Mai Thuỳ Dương")
 
